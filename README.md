@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas Sampaio - Backend Developer Sênior
+- 👋 Hi, I’m Lucas Sampaio - Backend Developer SR
 - 👀 I’m interested in shared and contribut with student developer's and learn every day from them!
 - 🌱 I’m currently learning microservices with nestjs, rabbitMQ and other tecnologies.
 - 💞️ I’m looking to collaborate on nestjs, node, .net, .netcore, aspnet mvc, angular, docker, rabbitMQ, data base's manegement, azure, web app for container and othres 
